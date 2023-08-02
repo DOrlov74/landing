@@ -11,7 +11,6 @@ export const makePostRequest = (url: string, details: any, setSent: any, setLoad
             if (response.ok) {
                 setLoading(false);
                 setSent(true);
-                //appMessageCtx?.setMessage({severity: 'success', message: `message succesfully sent`});
                 return response.json();
             } else {
                 setLoading(false);
@@ -20,10 +19,9 @@ export const makePostRequest = (url: string, details: any, setSent: any, setLoad
             }
         })
         .catch((error) => {
-            console.log(error);
+            //console.log(error);
             setLoading(false);
             setSent(false);
-            //appMessageCtx?.setMessage({severity: 'error', message: `error sending message, ${error}`});
         });
 };
 

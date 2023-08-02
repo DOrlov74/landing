@@ -33,6 +33,7 @@ export default function Contact() {
             .required('Message is required'),
     });
     const formik = useFormik({
+        enableReinitialize: true,
         initialValues: {
             username: userName,
             email: userEmail, 
@@ -43,7 +44,7 @@ export default function Contact() {
             const {username, email, message} = values;
             const packet = `name: ${username}, email: ${email}, message: ${message}`;
             const result = sendNotification(packet, setSent, setLoading);
-            console.log(result);
+            //console.log(result);
             setSubmited(true);
             clearForm();
         },
