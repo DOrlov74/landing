@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "05a99a7e32cb810438be",
+    "revision": "5e79e0f616c5c09dd031",
     "url": "/landing/static/css/main.49c6e6fa.chunk.css"
   },
   {
-    "revision": "05a99a7e32cb810438be",
-    "url": "/landing/static/js/main.05a99a7e.chunk.js"
+    "revision": "5e79e0f616c5c09dd031",
+    "url": "/landing/static/js/main.5e79e0f6.chunk.js"
   },
   {
     "revision": "03628066470ce55ea2f4",
@@ -136,15 +136,15 @@ self.__precacheManifest = [
     "url": "/landing/static/media/league-spartan-vietnamese-wght-normal.cc59775a.woff2"
   },
   {
-    "revision": "9b94fa5976c09e792420aa62a897cdda",
-    "url": "/landing/static/media/league-spartan-latin-ext-wght-normal.9b94fa59.woff2"
-  },
-  {
     "revision": "562993773f212d0b11fbcbe2aee33aba",
     "url": "/landing/static/media/league-spartan-latin-wght-normal.56299377.woff2"
   },
   {
-    "revision": "853b2d73241fb8ad2ee5ee2ad0279e60",
+    "revision": "9b94fa5976c09e792420aa62a897cdda",
+    "url": "/landing/static/media/league-spartan-latin-ext-wght-normal.9b94fa59.woff2"
+  },
+  {
+    "revision": "5607c51df929193f4cab1b971e5cfd3e",
     "url": "/landing/index.html"
   }
 ];

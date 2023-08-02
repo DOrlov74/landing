@@ -1,7 +1,7 @@
 {
   "main.css": "/landing/static/css/main.49c6e6fa.chunk.css",
-  "main.js": "/landing/static/js/main.05a99a7e.chunk.js",
-  "main.js.map": "/landing/static/js/main.05a99a7e.chunk.js.map",
+  "main.js": "/landing/static/js/main.5e79e0f6.chunk.js",
+  "main.js.map": "/landing/static/js/main.5e79e0f6.chunk.js.map",
   "static/js/1.03628066.chunk.js": "/landing/static/js/1.03628066.chunk.js",
   "static/js/1.03628066.chunk.js.map": "/landing/static/js/1.03628066.chunk.js.map",
   "static/css/2.084473cb.chunk.css": "/landing/static/css/2.084473cb.chunk.css",
@@ -36,10 +36,10 @@
   "static/media/mysql_.svg": "/landing/static/media/mysql_.69e319a8.svg",
   "static/media/autodesk.svg": "/landing/static/media/autodesk.351044fd.svg",
   "static/media/linkedin.svg": "/landing/static/media/linkedin.54454441.svg",
-  "static/media/index.css": "/landing/static/media/league-spartan-latin-wght-normal.56299377.woff2",
-  "static/css/2.084473cb.chunk.css.map": "/landing/static/css/2.084473cb.chunk.css.map",
+  "static/media/index.css": "/landing/static/media/league-spartan-latin-ext-wght-normal.9b94fa59.woff2",
   "static/css/main.49c6e6fa.chunk.css.map": "/landing/static/css/main.49c6e6fa.chunk.css.map",
+  "static/css/2.084473cb.chunk.css.map": "/landing/static/css/2.084473cb.chunk.css.map",
   "index.html": "/landing/index.html",
-  "precache-manifest.b06b887dc15bad5946d99907de3cf42b.js": "/landing/precache-manifest.b06b887dc15bad5946d99907de3cf42b.js",
+  "precache-manifest.cf6214cd1ca69d3af417382526ebca84.js": "/landing/precache-manifest.cf6214cd1ca69d3af417382526ebca84.js",
   "service-worker.js": "/landing/service-worker.js"
 }
