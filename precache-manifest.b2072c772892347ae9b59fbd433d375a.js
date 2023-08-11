@@ -1,27 +1,27 @@
 self.__precacheManifest = [
   {
-    "revision": "5e79e0f616c5c09dd031",
-    "url": "/landing/static/css/main.49c6e6fa.chunk.css"
+    "revision": "357cd3c68ac57e26a8e5",
+    "url": "/landing/static/css/main.5ac5228b.chunk.css"
   },
   {
-    "revision": "5e79e0f616c5c09dd031",
-    "url": "/landing/static/js/main.5e79e0f6.chunk.js"
+    "revision": "357cd3c68ac57e26a8e5",
+    "url": "/landing/static/js/main.357cd3c6.chunk.js"
   },
   {
-    "revision": "03628066470ce55ea2f4",
-    "url": "/landing/static/js/1.03628066.chunk.js"
+    "revision": "af61781b6f3e55d4eb27",
+    "url": "/landing/static/js/1.af61781b.chunk.js"
   },
   {
-    "revision": "2cb16e025927c8336b04",
-    "url": "/landing/static/css/2.084473cb.chunk.css"
+    "revision": "b3c67a83d4e6561d0aa8",
+    "url": "/landing/static/css/2.74bd879b.chunk.css"
   },
   {
-    "revision": "2cb16e025927c8336b04",
-    "url": "/landing/static/js/2.2cb16e02.chunk.js"
+    "revision": "b3c67a83d4e6561d0aa8",
+    "url": "/landing/static/js/2.b3c67a83.chunk.js"
   },
   {
-    "revision": "d43767c75c9b01a60394",
-    "url": "/landing/static/js/runtime~main.d43767c7.js"
+    "revision": "12087cc51400d5b00410",
+    "url": "/landing/static/js/runtime~main.12087cc5.js"
   },
   {
     "revision": "e9de9e808ccbc962277a7674de6044e6",
@@ -40,40 +40,48 @@ self.__precacheManifest = [
     "url": "/landing/static/media/firebase_.32a8566c.svg"
   },
   {
-    "revision": "a7832c822b6bdfbf925e4f9fbfba0028",
-    "url": "/landing/static/media/Project1.a7832c82.png"
+    "revision": "f63ad17051522df3ea17344f111c9064",
+    "url": "/landing/static/media/javascript.f63ad170.svg"
   },
   {
-    "revision": "579ba4a99bcea901639ffb0c9b1d67cb",
-    "url": "/landing/static/media/telegram.579ba4a9.svg"
+    "revision": "4d7ca4bce7763c8f3e5067058355691c",
+    "url": "/landing/static/media/c-sharp.4d7ca4bc.svg"
   },
   {
     "revision": "b716e2c72a9c8399539c200a3abb0996",
     "url": "/landing/static/media/dot_net_icon.b716e2c7.svg"
   },
   {
-    "revision": "25c71b71ea530205da602da0f5de18a4",
-    "url": "/landing/static/media/api_icon.25c71b71.svg"
+    "revision": "3f66d4cbdc8e3bfaf0e3270b19567d63",
+    "url": "/landing/static/media/css3.3f66d4cb.svg"
   },
   {
-    "revision": "f63ad17051522df3ea17344f111c9064",
-    "url": "/landing/static/media/javascript.f63ad170.svg"
+    "revision": "a7832c822b6bdfbf925e4f9fbfba0028",
+    "url": "/landing/static/media/Project1.a7832c82.png"
+  },
+  {
+    "revision": "bfedac24698244ee96e1c7bd270ba8c1",
+    "url": "/landing/static/media/Project2.bfedac24.png"
+  },
+  {
+    "revision": "579ba4a99bcea901639ffb0c9b1d67cb",
+    "url": "/landing/static/media/telegram.579ba4a9.svg"
+  },
+  {
+    "revision": "9d63c48b6621700363e8cc2e951d743e",
+    "url": "/landing/static/media/jquery.9d63c48b.svg"
+  },
+  {
+    "revision": "25c71b71ea530205da602da0f5de18a4",
+    "url": "/landing/static/media/api_icon.25c71b71.svg"
   },
   {
     "revision": "1078a0936febd7fdd300b4652ec35b3f",
     "url": "/landing/static/media/html.1078a093.svg"
   },
   {
-    "revision": "3f66d4cbdc8e3bfaf0e3270b19567d63",
-    "url": "/landing/static/media/css3.3f66d4cb.svg"
-  },
-  {
     "revision": "b09f4e6b173f76f29e401c9d005aea08",
     "url": "/landing/static/media/c++.b09f4e6b.svg"
-  },
-  {
-    "revision": "4d7ca4bce7763c8f3e5067058355691c",
-    "url": "/landing/static/media/c-sharp.4d7ca4bc.svg"
   },
   {
     "revision": "14e769fab1357afd99ba7d8b75c46cc0",
@@ -132,6 +140,10 @@ self.__precacheManifest = [
     "url": "/landing/static/media/linkedin.54454441.svg"
   },
   {
+    "revision": "9b94fa5976c09e792420aa62a897cdda",
+    "url": "/landing/static/media/league-spartan-latin-ext-wght-normal.9b94fa59.woff2"
+  },
+  {
     "revision": "cc59775a76786a8045682d60a218dab4",
     "url": "/landing/static/media/league-spartan-vietnamese-wght-normal.cc59775a.woff2"
   },
@@ -140,11 +152,7 @@ self.__precacheManifest = [
     "url": "/landing/static/media/league-spartan-latin-wght-normal.56299377.woff2"
   },
   {
-    "revision": "9b94fa5976c09e792420aa62a897cdda",
-    "url": "/landing/static/media/league-spartan-latin-ext-wght-normal.9b94fa59.woff2"
-  },
-  {
-    "revision": "5607c51df929193f4cab1b971e5cfd3e",
+    "revision": "2117a16bdce5ebc6d9742a39d08a183d",
     "url": "/landing/index.html"
   }
 ];
