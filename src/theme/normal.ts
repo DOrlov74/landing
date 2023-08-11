@@ -74,6 +74,31 @@ const theme = createTheme({
                     }
                 }
             }
+        },
+        MuiIconButton: {
+            styleOverrides: {
+                root: {
+                    '&, &:link, &.visited': {
+                        position: 'absolute',
+                        bottom: '50%',
+                        textTransform: 'none',
+                        color: 'white',
+                        backgroundColor: 'transparent',
+                        textShadow: '2px 2px 2px #333',
+                        transition: 'all .2s'
+                    },
+                    '&:hover': {
+                        transform: 'translateY(-2px)',
+                        backgroundColor: 'transparent',
+                    },
+                    '&:active, &:focus': {
+                        transform: 'translateY(-1px)'
+                    },
+                    '&:disabled': {
+                        textShadow: 'none',
+                    }
+                }
+            }
         }
     }
 })
