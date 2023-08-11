@@ -84,7 +84,7 @@ const theme = createTheme({
                         textTransform: 'none',
                         color: 'white',
                         backgroundColor: 'transparent',
-                        textShadow: '2px 2px 2px #333',
+                        textShadow: `2px 2px 2px ${myPrimary.dark}`,
                         transition: 'all .2s'
                     },
                     '&:hover': {
