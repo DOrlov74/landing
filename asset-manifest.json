@@ -1,7 +1,7 @@
 {
   "main.css": "/landing/static/css/main.5ac5228b.chunk.css",
-  "main.js": "/landing/static/js/main.357cd3c6.chunk.js",
-  "main.js.map": "/landing/static/js/main.357cd3c6.chunk.js.map",
+  "main.js": "/landing/static/js/main.4f68f13b.chunk.js",
+  "main.js.map": "/landing/static/js/main.4f68f13b.chunk.js.map",
   "static/js/1.af61781b.chunk.js": "/landing/static/js/1.af61781b.chunk.js",
   "static/js/1.af61781b.chunk.js.map": "/landing/static/js/1.af61781b.chunk.js.map",
   "static/css/2.74bd879b.chunk.css": "/landing/static/css/2.74bd879b.chunk.css",
@@ -38,10 +38,10 @@
   "static/media/mysql_.svg": "/landing/static/media/mysql_.69e319a8.svg",
   "static/media/autodesk.svg": "/landing/static/media/autodesk.351044fd.svg",
   "static/media/linkedin.svg": "/landing/static/media/linkedin.54454441.svg",
-  "static/media/index.css": "/landing/static/media/league-spartan-latin-wght-normal.56299377.woff2",
-  "static/css/2.74bd879b.chunk.css.map": "/landing/static/css/2.74bd879b.chunk.css.map",
+  "static/media/index.css": "/landing/static/media/league-spartan-vietnamese-wght-normal.cc59775a.woff2",
   "static/css/main.5ac5228b.chunk.css.map": "/landing/static/css/main.5ac5228b.chunk.css.map",
+  "static/css/2.74bd879b.chunk.css.map": "/landing/static/css/2.74bd879b.chunk.css.map",
   "index.html": "/landing/index.html",
-  "precache-manifest.b2072c772892347ae9b59fbd433d375a.js": "/landing/precache-manifest.b2072c772892347ae9b59fbd433d375a.js",
+  "precache-manifest.38c89e440dd99c7160ddbea4904a14f8.js": "/landing/precache-manifest.38c89e440dd99c7160ddbea4904a14f8.js",
   "service-worker.js": "/landing/service-worker.js"
 }
