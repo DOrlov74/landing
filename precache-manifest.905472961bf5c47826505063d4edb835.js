@@ -1,27 +1,27 @@
 self.__precacheManifest = [
   {
-    "revision": "4f68f13bbe829786f61a",
-    "url": "/landing/static/css/main.5ac5228b.chunk.css"
+    "revision": "f5e6f6ff27a755e2ee41",
+    "url": "/landing/static/css/main.0b640f9c.chunk.css"
   },
   {
-    "revision": "4f68f13bbe829786f61a",
-    "url": "/landing/static/js/main.4f68f13b.chunk.js"
+    "revision": "f5e6f6ff27a755e2ee41",
+    "url": "/landing/static/js/main.f5e6f6ff.chunk.js"
   },
   {
-    "revision": "af61781b6f3e55d4eb27",
-    "url": "/landing/static/js/1.af61781b.chunk.js"
+    "revision": "067be1fa11608c35988c",
+    "url": "/landing/static/js/1.067be1fa.chunk.js"
   },
   {
-    "revision": "b3c67a83d4e6561d0aa8",
-    "url": "/landing/static/css/2.74bd879b.chunk.css"
+    "revision": "7593a7131848cd5a2d46",
+    "url": "/landing/static/css/2.beb0d76e.chunk.css"
   },
   {
-    "revision": "b3c67a83d4e6561d0aa8",
-    "url": "/landing/static/js/2.b3c67a83.chunk.js"
+    "revision": "7593a7131848cd5a2d46",
+    "url": "/landing/static/js/2.7593a713.chunk.js"
   },
   {
-    "revision": "12087cc51400d5b00410",
-    "url": "/landing/static/js/runtime~main.12087cc5.js"
+    "revision": "09e6821f9f2f2786fd3d",
+    "url": "/landing/static/js/runtime~main.09e6821f.js"
   },
   {
     "revision": "e9de9e808ccbc962277a7674de6044e6",
@@ -140,10 +140,6 @@ self.__precacheManifest = [
     "url": "/landing/static/media/linkedin.54454441.svg"
   },
   {
-    "revision": "562993773f212d0b11fbcbe2aee33aba",
-    "url": "/landing/static/media/league-spartan-latin-wght-normal.56299377.woff2"
-  },
-  {
     "revision": "9b94fa5976c09e792420aa62a897cdda",
     "url": "/landing/static/media/league-spartan-latin-ext-wght-normal.9b94fa59.woff2"
   },
@@ -152,7 +148,11 @@ self.__precacheManifest = [
     "url": "/landing/static/media/league-spartan-vietnamese-wght-normal.cc59775a.woff2"
   },
   {
-    "revision": "34eeaee406a9180ed32e4986d31807c0",
+    "revision": "562993773f212d0b11fbcbe2aee33aba",
+    "url": "/landing/static/media/league-spartan-latin-wght-normal.56299377.woff2"
+  },
+  {
+    "revision": "830b02cee17a184a084886c4a3511735",
     "url": "/landing/index.html"
   }
 ];
