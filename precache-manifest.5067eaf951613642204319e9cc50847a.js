@@ -1,27 +1,35 @@
 self.__precacheManifest = [
   {
-    "revision": "f5e6f6ff27a755e2ee41",
-    "url": "/landing/static/css/main.0b640f9c.chunk.css"
+    "revision": "5a71fdcab6f9dedcddbb",
+    "url": "/landing/static/css/main.4a93615a.chunk.css"
   },
   {
-    "revision": "f5e6f6ff27a755e2ee41",
-    "url": "/landing/static/js/main.f5e6f6ff.chunk.js"
+    "revision": "5a71fdcab6f9dedcddbb",
+    "url": "/landing/static/js/main.5a71fdca.chunk.js"
   },
   {
-    "revision": "067be1fa11608c35988c",
-    "url": "/landing/static/js/1.067be1fa.chunk.js"
+    "revision": "b294daaa80292132610c",
+    "url": "/landing/static/js/1.b294daaa.chunk.js"
   },
   {
-    "revision": "7593a7131848cd5a2d46",
-    "url": "/landing/static/css/2.beb0d76e.chunk.css"
+    "revision": "a2211c30fbecf7075056",
+    "url": "/landing/static/css/2.a71d7dfc.chunk.css"
   },
   {
-    "revision": "7593a7131848cd5a2d46",
-    "url": "/landing/static/js/2.7593a713.chunk.js"
+    "revision": "a2211c30fbecf7075056",
+    "url": "/landing/static/js/2.a2211c30.chunk.js"
   },
   {
-    "revision": "09e6821f9f2f2786fd3d",
-    "url": "/landing/static/js/runtime~main.09e6821f.js"
+    "revision": "d64fb2aa3cb3a54a4808",
+    "url": "/landing/static/js/runtime~main.d64fb2aa.js"
+  },
+  {
+    "revision": "4d7ca4bce7763c8f3e5067058355691c",
+    "url": "/landing/static/media/c-sharp.4d7ca4bc.svg"
+  },
+  {
+    "revision": "b716e2c72a9c8399539c200a3abb0996",
+    "url": "/landing/static/media/dot_net_icon.b716e2c7.svg"
   },
   {
     "revision": "e9de9e808ccbc962277a7674de6044e6",
@@ -44,14 +52,6 @@ self.__precacheManifest = [
     "url": "/landing/static/media/javascript.f63ad170.svg"
   },
   {
-    "revision": "4d7ca4bce7763c8f3e5067058355691c",
-    "url": "/landing/static/media/c-sharp.4d7ca4bc.svg"
-  },
-  {
-    "revision": "b716e2c72a9c8399539c200a3abb0996",
-    "url": "/landing/static/media/dot_net_icon.b716e2c7.svg"
-  },
-  {
     "revision": "3f66d4cbdc8e3bfaf0e3270b19567d63",
     "url": "/landing/static/media/css3.3f66d4cb.svg"
   },
@@ -64,12 +64,20 @@ self.__precacheManifest = [
     "url": "/landing/static/media/Project2.bfedac24.png"
   },
   {
+    "revision": "46124f44fcd3996a57099a695f1f71d2",
+    "url": "/landing/static/media/Project3.46124f44.png"
+  },
+  {
     "revision": "579ba4a99bcea901639ffb0c9b1d67cb",
     "url": "/landing/static/media/telegram.579ba4a9.svg"
   },
   {
     "revision": "9d63c48b6621700363e8cc2e951d743e",
     "url": "/landing/static/media/jquery.9d63c48b.svg"
+  },
+  {
+    "revision": "3b8c1baf9310fda93263aec5d8821e71",
+    "url": "/landing/static/media/umbraco.3b8c1baf.svg"
   },
   {
     "revision": "25c71b71ea530205da602da0f5de18a4",
@@ -152,7 +160,7 @@ self.__precacheManifest = [
     "url": "/landing/static/media/league-spartan-latin-wght-normal.56299377.woff2"
   },
   {
-    "revision": "830b02cee17a184a084886c4a3511735",
+    "revision": "bf2e9fe144fd85181f1d36046beeda3d",
     "url": "/landing/index.html"
   }
 ];
