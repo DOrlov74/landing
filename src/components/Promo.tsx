@@ -11,7 +11,7 @@ import { appear } from "../theme/animation";
 
 const letterStyle = {
   display: "inline",
-  animation: "appear 3s ease-out",
+  animation: "appear 2s ease-out",
   animationFillMode: "both",
   "@keyframes appear": { ...appear },
 };
